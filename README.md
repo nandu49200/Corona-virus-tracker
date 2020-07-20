@@ -1,6 +1,5 @@
 # COVID-19 Tracker
 
-# Realtime Chat Application
 
 
 API used: https://covid19.mathdro.id/api
